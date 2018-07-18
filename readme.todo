@@ -1,0 +1,17 @@
+Texy_basics.py:
+  ☐ Add dice-roll (array function)
+  ☐ Add dice-roll (number function)
+
+Texy_combat.py:
+  ☐ Design combat algorithm
+
+Texy_map.py:
+  ☐ Add elimintate_object function
+
+Texy_dialogue:
+  ☐ Finish word-by-word system
+
+Extra:
+  ☐ Finish AI
+  ☐ Write Texy-Engine docs
+  ☐ Design syntax and philosophy

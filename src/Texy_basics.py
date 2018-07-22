@@ -8,6 +8,8 @@ def dice_roll_array(array):
 	return choice
 
 def dice_roll_number():
+	roll = random.randint(1, 6)
+	return roll
 
 def add_object(object_name, inventory, object_to_add):
 	inventory.append(object_to_add)

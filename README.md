@@ -12,6 +12,9 @@ Texy.py is a python library for text-based game development. You can change your
 Open your windows terminal and type: 
 `pip install texypy`
 
+## Documentation
+You can learn about how the library works and how to use it on the [Texy website]().
+
 ## Contribute
 Any one can contribute, and even play with the code.
 

@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: Texy.py
+Version: 1.0.0
+Summary: A library for text-based games
+Home-page: https://github.com/Thirsty-Robot/Texy.py-Game-Engine
+Author: Thirsty-Robot
+Author-email: Thirsty-Robot@protonmail.com
+License: MIT
+Description: A library for text-based game development in python. Also, educational
+Keywords: games game-engine text
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Games/Entertainment
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

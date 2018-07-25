@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+Texy.py.egg-info/PKG-INFO
+Texy.py.egg-info/SOURCES.txt
+Texy.py.egg-info/dependency_links.txt
+Texy.py.egg-info/top_level.txt
+texy/Texy_basics.py
+texy/Texy_dialogue.py
+texy/Texy_event.py
+texy/Texy_scene.py
+texy/__init__.py

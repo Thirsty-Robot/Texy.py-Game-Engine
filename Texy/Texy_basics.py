@@ -11,7 +11,7 @@ def dice_roll_number():
 	roll = random.randint(1, 6)
 	return roll
 
-def add_object(object_name, inventory, object_to_add):
+def add_object_to_inventory(object_name, inventory, object_to_add):
 	inventory.append(object_to_add)
 	print ("%s has received %s and has been added to inventory" % (object_name, object_to_add))
 	return inventory
@@ -25,13 +25,6 @@ def encounter(bool_encounter, object_to_encounter):
 
 	else:
 		return False
-
-def get_input(pressed_key):
-	if (keyboard.is_pressed(pressed_key)):
-		return True
-
-	else:
-		return False
-
+		
 def exit_game():
 	sys.exit()

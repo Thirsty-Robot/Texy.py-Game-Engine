@@ -12,16 +12,15 @@ setup(
 	license='MIT',
 	long_description='A library for text-based game development in python. Also, educational',
 	url='https://github.com/Thirsty-Robot/Texy.py-Game-Engine',
-	classifiers=[
+	classifiers=(
 		'Development Status :: 5 - Production/Stable',
 		'Intended Audience :: Developers',
 		'Topic :: Games/Entertainment',
-		'Topic :: Software Development :: Libraries  '
 		'License :: OSI Approved :: MIT License',
 		'Programming Language :: Python :: 3'
-	],
+	),
 
 	keywords='games game-engine text',
-	packages=["Texy"]
+	packages=["texy"]
 
 	)

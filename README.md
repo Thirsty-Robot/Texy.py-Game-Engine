@@ -9,8 +9,13 @@ We want to help amateur programmers interested in creating games to learn how [O
 Texy.py is a python library for text-based game development. You can change your terminal text colot, dice rolls, check for input and more!
 
 ## Installation
-Open your windows terminal and type: 
-`pip install texypy`
+Download the distribution from [here](https://test-files.pythonhosted.org/packages/68/34/26018f75aedc3ac6c802c5fbbaf41b8bc0b89f6d6be6cd7a32c279192265/texy-py-1.0.0.tar.gz).
+
+Open a terminal and move to the download path, of the file.
+
+Execute `pip install texy-py-1.0.0.tar.gz`
+
+And now you have Texy.py. Enjoy!
 
 ## Documentation
 You can learn about how the library works and how to use it on the [Texy website]().

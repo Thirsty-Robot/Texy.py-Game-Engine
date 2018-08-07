@@ -1,7 +1,5 @@
 import random
-import os
 import sys
-import keyboard
 
 def dice_roll_array(array):
 	choice = random.choice(array)
@@ -13,7 +11,7 @@ def dice_roll_number():
 
 def add_object_to_inventory(object_name, inventory, object_to_add):
 	inventory.append(object_to_add)
-	print ("%s has received %s and has been added to inventory" % (object_name, object_to_add))
+	print ("%s has received %s and has been added to inventory"%(object_name, object_to_add))
 	return inventory
 
 def irandom (min, max):
